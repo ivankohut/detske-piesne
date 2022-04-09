@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Sviečku nádeje mám</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>16</hymn_number>
   <presentation>V1 C V2 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Sviečku nádeje mám,
  svetlo prináša nám,
@@ -42,4 +29,5 @@
  Sviečku lásky už mám,
  lásku prináša nám,
  Boh sa skláňa v milosti
- aj k nám, aj k vám.</lyrics></song>
+ aj k nám, aj k vám.</lyrics>
+</song>

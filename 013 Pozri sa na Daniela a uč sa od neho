@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Pozri sa na Daniela a uč sa od neho</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>13</hymn_number>
   <presentation>C1 V1 C2 V2 C2 V3 C3 C1</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[C1]
  Pozri sa, pozri sa na Daniela
  a uč sa od neho!
@@ -39,4 +26,5 @@
  sa Pán Boh odmenil.
 [C3]
  Tak chváľme Boha,
- lebo dobrý Pán Boh je.</lyrics></song>
+ lebo dobrý Pán Boh je.</lyrics>
+</song>

@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Či si veľký a či malý</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>4</hymn_number>
   <presentation></presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Či si veľký a či malý,
  možno akurát,
@@ -29,4 +16,5 @@
  ťa miluje, aj keď spíš.||
  Je to jedno jak sa cítiš
  a jak vyzeráš,
- Boh ťa má rád!</lyrics></song>
+ Boh ťa má rád!</lyrics>
+</song>

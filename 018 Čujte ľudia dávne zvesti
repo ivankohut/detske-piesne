@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
   <title>Čujte ľudia dávne zvesti</title>
-  <author></author>
-  <copyright></copyright>
   <hymn_number>18</hymn_number>
   <presentation>V1 C V2 C</presentation>
-  <ccli></ccli>
-  <capo print="false"></capo>
-  <key></key>
-  <aka></aka>
-  <key_line></key_line>
-  <user1></user1>
-  <user2></user2>
-  <user3></user3>
-  <theme></theme>
-  <tempo></tempo>
-  <time_sig></time_sig>
   <lyrics>[V1]
  Čujte ľudia dávne zvesti,
  z neba prišla láska k nám.
@@ -30,4 +17,5 @@
  Viem kam pôjdem s biedou svojou,
  mojím otcom Boh sa stal.
  Poslal na zem svojho Syna,
- aby ľuďom nádej dal.</lyrics></song>
+ aby ľuďom nádej dal.</lyrics>
+</song>
